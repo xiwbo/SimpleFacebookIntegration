@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 	<string name="app_name">MainActivity</string>
-	<string name="facebook_app_id">138759950120380</string>
+	<string name="facebook_app_id">"app id here!"</string>
 </resources>
